@@ -1,0 +1,142 @@
+a5380ee
+Data Structures
+
+MCQ
+What is the time complexity of inserting an element into an array?
+A: O(1)
+B: O(log n)
+C: O(n)
+D: O(n log n)`C
+
+MCQ
+Which of the following data structures uses the Last-In-First-Out (LIFO) principle?
+A: Queue
+B: Stack
+C: Linked List
+D: Tree`B
+
+
+MCQ
+Which of the following data structures is used for storing and retrieving data in sorted order?
+A: Stack
+B: Queue
+C: Binary Tree
+D: Binary Search Tree`D
+
+
+MCQ
+Which data structure is used for implementing DFS (Depth First Search) algorithm?
+A: Stack
+B: Queue
+C: Binary Tree
+D: Binary Search Tree`A
+
+MCQ
+Which of the following is not a linear data structure?
+A: Stack
+B: Queue
+C: Tree
+D: Heap`C
+
+MCQ
+Which of the following is an example of a linear data structure?
+A: stack
+B: queue
+C: linked list
+D: binary tree`C
+
+MCQ
+Which of the following sorting algorithms has the worst-case time complexity of O(n^2)?
+A: Bubble Sort
+B: Merge Sort
+C: Quick Sort
+D: Insertion Sort`A
+
+MCQ
+Which of the following data structures is a dynamic data structure?
+A: array
+B: linked list
+C: both a and b
+D: binary search tree`C
+
+MCQ
+What is the worst-case time complexity of quicksort algorithm?
+A: O(1)
+B: O(log n)
+C: O(n)
+D: O(n log n)`D
+
+MCQ
+Which data structure is used to represent a hierarchical structure with a set of connected nodes?
+A: Queue
+B: Stack
+C: Tree
+D: Graph`D
+
+MCQ
+What is the time complexity of searching an element in a binary search tree?
+A: O(1)
+B: O(log n)
+C: O(h) where h is the height of the tree`C
+
+
+MCQ
+Which of the following data structures has the highest search time complexity?
+A: Array
+B: Linked List
+C: Hash Table
+D: Binary Search Tree`D
+
+True/False
+The worst-case time complexity of linear search is O(n).
+A: True
+B: False`A
+
+True/False
+A binary search algorithm can only be used with a sorted array.
+A: True
+B: False`A
+
+True/False
+A stack is a linear data structure that follows the LIFO (Last-In-First-Out) principle.
+A: True
+B: False`A
+
+True/False
+A tree is a linear data structure.
+A: True
+B: False`B
+
+True/False
+A queue is a data structure that follows the FILO (First-In-Last-Out) principle.
+A: True
+B: False`B
+
+True/False
+A linked list is a linear data structure.
+A: True
+B: False`A
+
+True/False
+In a binary search tree, the left subtree of a node contains only nodes with keys less than the node's key.
+A: True
+B: False`A
+
+True/False
+The time complexity of binary search is O(log n).
+A: True
+B: False`A
+
+True/False
+An AVL tree is a self-balancing binary search tree.
+A: True
+B: False`A
+
+True/False
+A hash table is a data structure that stores elements in a sorted order.
+A: True
+B: False`B
+
+Descriptive
+Explain the difference between a stack and a queue in data structures, and give an example of a scenario where each one might be used.`
+In a stack, elements are added and removed from the top of the stack in a last-in-first-out (LIFO) order. This means that the most recently added element is the first one to be removed. A real-world example of a stack is a pile of books, where the book on top is the last one added and the first one to be removed. In a queue, elements are added at the back and removed from the front of the queue in a first-in-first-out (FIFO) order. This means that the first element added is the first one to be removed. A real-world example of a queue is a line of people waiting to board a bus, where the person who arrived first is the first one to board the bus.

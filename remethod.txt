@@ -1,0 +1,126 @@
+a5380ee
+Research Methodology
+
+MCQ
+What is the difference between quantitative and qualitative research?
+A: Quantitative research focuses on numerical data while qualitative research focuses on non-numerical data
+B: Quantitative research focuses on non-numerical data while qualitative research focuses on numerical data
+C: Quantitative research is subjective while qualitative research is objective
+D: Quantitative research is objective while qualitative research is subjective`A
+
+MCQ
+Which of the following is NOT a common research design?
+A: Experimental design
+B: Case study design
+C: Survey design
+D: Evaluative design`D
+
+MCQ
+What is the purpose of a literature review in research?
+A: To identify the research question
+B: To gather primary data
+C: To summarize existing research on a topic
+D: To analyze research results`C
+
+MCQ
+Which of the following is NOT a type of sampling method?
+A: Random sampling
+B: Convenience sampling
+C: Snowball sampling
+D: Exploratory sampling`D
+
+MCQ
+What is the purpose of a research proposal?
+A: To present a summary of existing research on a topic
+B: To outline the research design and methodology
+C: To analyze research results
+D: To provide a final report on the research study`B
+
+MCQ
+What is the difference between a dependent variable and an independent variable in research?
+A: The dependent variable is manipulated by the researcher while the independent variable is measured
+B: The dependent variable is measured by the researcher while the independent variable is manipulated
+C: The dependent variable is always qualitative while the independent variable is always quantitative
+D: The dependent variable is always quantitative while the independent variable is always qualitative`B
+
+MCQ
+Which of the following is a common measure of central tendency?
+A: Standard deviation
+B: Range
+C: Mean
+D: Variance`C
+
+MCQ
+What is the purpose of statistical analysis in research?
+A: To summarize research results
+B: To identify potential biases in the research design
+C: To test hypotheses and draw conclusions
+D: To select the research design`C
+
+MCQ
+Which of the following is a common type of research bias?
+A: Confirmation bias
+B: Sampling bias
+C: Sampling error
+D: Instrument bias`A
+
+MCQ
+What is the difference between reliability and validity in research?
+A: Reliability refers to the accuracy of a measurement while validity refers to the consistency of a measurement
+B: Reliability refers to the consistency of a measurement while validity refers to the accuracy of a measurement
+C: Reliability and validity are the same thing
+D: Reliability and validity are not relevant to research studies`B
+
+True/False
+The purpose of research is to find answers to questions by applying a systematic process.
+A: True
+B: False`A
+
+True/False
+In quantitative research, data is typically collected using open-ended questions.
+A: True
+B: False`B
+
+True/False
+A research hypothesis is a prediction about the relationship between two or more variables.
+A: True
+B: False`A
+
+True/False
+In experimental research, the independent variable is manipulated by the researcher.
+A: True
+B: False`A
+
+True/False
+In qualitative research, the researcher is typically an objective observer and does not participate in the research process.
+A: True
+B: False`B
+
+True/False
+A research design is a framework for conducting research that includes all the steps in the research process.  
+A: True
+B: False`A
+
+True/False
+In survey research, the goal is to collect data from a representative sample of the population being studied. 
+A: True
+B: False`A
+
+True/False
+Research ethics are a set of principles and guidelines that ensure the protection of research participants.
+A: True
+B: False`A
+
+True/False
+A literature review is a critical evaluation of the existing research on a specific topic.
+A: True
+B: False`A
+
+True/False
+In research, validity refers to the extent to which the results accurately represent the phenomenon being studied.
+A: True
+B: False`A
+
+Descriptive
+Describe the difference between a cross-sectional study and a longitudinal study in research methodology.`
+Cross-sectional studies involve collecting data at a single point in time, while longitudinal studies involve collecting data over an extended period. Cross-sectional studies can provide a snapshot of a population at a particular time, but they cannot establish cause-and-effect relationships or show changes over time. Longitudinal studies, on the other hand, can provide insight into changes over time and the effects of a particular intervention, but they can be expensive and time-consuming to conduct.

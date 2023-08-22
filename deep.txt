@@ -1,0 +1,130 @@
+a5380ee
+Deep Learning
+
+MCQ
+What is a deep neural network?
+A: A neural network with more than one hidden layer
+B: A neural network with only one hidden layer
+C: A neural network with no hidden layers
+D: A type of machine learning algorithm that does not use neural networks`A
+
+MCQ
+Which activation function is commonly used in deep learning?
+A: Sigmoid
+B: Linear
+C: ReLU
+D: Cosine`C
+
+MCQ
+What is backpropagation?
+A: A method for training neural networks
+B: A type of unsupervised learning
+C: A reinforcement learning algorithm
+D: A method for reducing overfitting in machine learning models`A
+
+MCQ
+What is a convolutional neural network (CNN)?
+A: A type of neural network commonly used in image recognition
+B: A type of neural network commonly used in natural language processing
+C: A type of neural network that does not use backpropagation
+D: A type of neural network that uses reinforcement learning`A
+
+MCQ
+What is the purpose of a pooling layer in a CNN?
+A: To reduce the dimensionality of the input
+B: To increase the number of channels in the output
+C: To add noise to the input
+D: To remove outliers from the input`A
+
+MCQ
+Which of the following is not a common optimization algorithm used in deep learning?
+A: Gradient Descent
+B: Adam
+C: LeNet
+D: RMSprop`C
+
+MCQ
+What is a recurrent neural network (RNN)?
+A: A type of neural network commonly used in image recognition
+B: A type of neural network commonly used in natural language processing
+C: A type of neural network that uses reinforcement learning
+D: A type of neural network that does not use backpropagation`B
+
+MCQ
+Which of the following is a common application of deep learning?
+A: Autonomous driving
+B: Image recognition
+C: Speech recognition
+D: All of the above`D
+
+MCQ
+What is transfer learning?
+A: Using pre-trained models to solve a new problem
+B: Transferring data from one computer to another
+C: Transferring weights from one layer to another in a neural network
+D: A method for reducing the number of parameters in a neural network`A
+
+MCQ
+What is overfitting in deep learning?
+A: When a model performs well on the training data but poorly on the testing data
+B: When a model performs poorly on the training data but well on the testing data
+C: When a model has too few parameters
+D: When a model has too many parameters`A
+
+True/False
+Deep Learning is a type of Artificial Intelligence.
+A: True
+B: False`A
+
+True/False
+Deep Learning models are typically shallow and have only a few layers.
+A: True
+B: False`B
+
+True/False
+Deep Learning is a subset of Machine Learning.
+A: True
+B: False`A
+
+True/False
+Deep Learning algorithms require large amounts of labeled data to train.
+A: True
+B: False`A
+
+True/False
+Deep Learning algorithms are less accurate than traditional Machine Learning algorithms.
+A: True
+B: False`B
+
+True/False
+Convolutional Neural Networks (CNNs) are commonly used in image recognition tasks.
+A: True
+B: False`A
+
+True/False
+Recurrent Neural Networks (RNNs) are useful for processing sequential data, such as time series. 
+A: True
+B: False`A
+
+True/False
+Gradient Descent is a popular optimization algorithm used in Deep Learning.
+A: True
+B: False`A
+
+True/False
+Deep Learning is an emerging field and there is still much research to be done to improve its capabilities.
+A: True
+B: False`A
+
+True/False
+Deep Learning models can be easily interpreted and understood by humans.
+A: True
+B: False`B
+
+Descriptive
+What is the difference between Deep Learning and Machine Learning?`
+Deep Learning is a subfield of Machine Learning that uses neural networks with multiple layers to model and solve complex problems.
+
+Descriptive
+What are some applications of Deep Learning?`
+Deep Learning has various applications, including image recognition, speech recognition, natural language processing, autonomous driving, and recommendation systems.

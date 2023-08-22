@@ -1,0 +1,130 @@
+a5380ee
+Artificial Intelligence
+
+MCQ
+Which of the following is not a subfield of Artificial Intelligence?
+A: Machine Learning
+B: Robotics
+C: Neuroscience
+D: Natural Language Processing`C
+
+MCQ
+What is the most popular programming language for implementing Artificial Intelligence algorithms?
+A: Python
+B: Java
+C: C++
+D: Ruby`A
+
+MCQ
+Which of the following is not a category of Machine Learning algorithms?
+A: Supervised Learning
+B: Unsupervised Learning
+C: Reinforcement Learning
+D: Deep Learning`D
+
+MCQ
+Which of the following is not a type of Artificial Intelligence?
+A: Reactive Machines
+B: Limited Memory
+C: Theory of Mind
+D: Emotional Intelligence`D
+
+MCQ
+Which of the following is not a popular platform for developing chatbots?
+A: IBM Watson
+B: Dialogflow
+C: Microsoft Azure
+D: Amazon Web Services`C
+
+MCQ
+What is the term for the ability of a computer program to learn and improve from experience without being explicitly programmed?
+A: Machine Learning
+B: Reinforcement Learning`A
+C: Supervised Learning
+D: Unsupervised Learning
+
+MCQ
+Which of the following is not an application of Natural Language Processing?
+A: Machine Translation
+B: Sentiment Analysis
+C: Image Recognition
+D: Speech Recognition`C
+
+MCQ
+Which of the following is not a challenge of developing Artificial Intelligence systems?
+A: Data Privacy
+B: Algorithm Complexity
+C: Computational Resources
+D: Hardware Compatibility`D
+
+MCQ
+Which of the following is not a popular framework for developing deep learning models?
+A: TensorFlow
+B: Keras
+C: PyTorch
+D: Scikit-Learn`D
+
+MCQ
+Which of the following is not a common type of Artificial Intelligence system?
+A: Expert Systems
+B: Neural Networks
+C: Rule-Based Systems
+D: Database Management Systems`D
+
+True/False
+Artificial Intelligence (AI) is a branch of computer science that aims to create intelligent machines capable of performing tasks that typically require human intelligence.
+A: True
+B: False`A
+
+True/False
+AI can only be used for tasks that are purely technical in nature, such as image or speech recognition.
+A: True
+B: False`B
+
+True/False
+Machine Learning is a subset of AI that involves teaching machines to learn from data, without being explicitly programmed.
+A: True
+B: False`A
+
+True/False
+Deep Learning is a type of machine learning that involves artificial neural networks with multiple layers of processing.
+A dabfac4: True
+B: False`A
+
+True/False
+AI has no limitations and can solve any problem that a human can solve.
+A: True
+B: False`B
+
+True/False
+Natural Language Processing (NLP) is a type of AI that involves teaching machines to understand and interpret human language.
+A: True
+B: False`A
+
+True/False
+Expert systems are a type of AI that use human expertise to solve complex problems.
+A: True
+B: False`A
+
+True/False
+Reinforcement learning is a type of machine learning that involves an agent learning to make decisions based on rewards and punishments.
+A: True
+B: False`A
+
+True/False
+AI systems can learn and improve over time, making them more accurate and efficient.
+A: True
+B: False`A
+
+True/False
+AI technology is still in its infancy and has not yet made significant impacts on society and the economy.
+A: True
+B: False`B
+
+Descriptive
+What is the difference between supervised and unsupervised learning in Machine Learning?
+Supervised learning is a type of machine learning where the algorithm is trained on labeled data, while unsupervised learning involves training the algorithm on unlabeled data.
+
+Descriptive
+What is the Turing Test in Artificial Intelligence?
+The Turing Test is a test of a machine's ability to exhibit intelligent behavior equivalent to, or indistinguishable from, that of a human. It involves a human evaluator who interacts with a machine and a human, and tries to identify which is the machine and which is the human based on their responses.

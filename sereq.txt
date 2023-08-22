@@ -1,0 +1,121 @@
+a5380ee
+Software Requirements Engineering
+
+MCQ
+What is the goal of requirements elicitation?
+A: To determine what the customer wants
+B: To document the software architecture
+C: To optimize software performance
+D: To develop user manuals`A
+
+MCQ
+Which of the following is a non-functional requirement?
+A: The software must have a user-friendly interface
+B: The software must support up to 1000 users
+C: The software must be developed using Java programming language
+D: The software must be compatible with Windows and Linux operating systems`A
+
+MCQ
+What is the purpose of a requirements specification document?
+A: To capture the customer's requirements
+B: To outline the software architecture
+C: To develop test cases`A
+D: To identify the system's limitations
+
+MCQ
+Which of the following is a requirement validation technique?
+A: Survey
+B: Brainstorming
+C: Prototyping
+D: Acceptance testing`D
+
+What is the goal of requirements prioritization?
+A: To ensure that all requirements are implemented
+B: To determine the importance of each requirement
+C: To increase software efficiency
+D: To reduce software development time`B
+
+MCQ
+Which of the following is a type of requirements traceability?
+A: Vertical traceability
+B: Horizontal traceability
+C: Diagonal traceability
+D: Circular traceability`A
+
+MCQ
+What is the purpose of requirements management?
+A: To ensure that all requirements are implemented
+B: To track changes to requirements
+C: To create a requirements specification document
+D: To develop test cases`B
+
+MCQ
+Which of the following is a characteristic of a good requirement?
+A: Ambiguous
+B: Testable
+C: Incomplete
+D: Inconsistent`B
+
+MCQ
+Which of the following is an example of a functional requirement?
+A: The software must be easy to use
+B: The software must support up to 1000 concurrent users
+C: The software must be developed using C++ programming language
+D: The software must provide the ability to create and save user profiles`D
+
+MCQ
+What is the goal of requirements negotiation?
+A: To eliminate all conflicts between stakeholders
+B: To resolve conflicts between stakeholders
+C: To document the software architecture
+D: To develop test cases`B
+
+True/False
+Requirements validation involves checking that the requirements are accurate, complete, and consistent. 
+A: True
+B: False`A
+
+True/False
+Requirements traceability is the ability to trace requirements forwards and backwards through the development process.
+A: True
+B: False`A
+
+True/False
+A functional requirement specifies a behavior or a function that the software must provide.
+A: True
+B: False`A
+
+True/False
+A non-functional requirement describes the behavior of the system or the services it must provide.
+A: True
+B: False`B
+
+True/False
+The purpose of requirements prioritization is to ensure that all requirements are implemented.
+A: True
+B: False`B
+
+True/False
+A good requirement is one that is ambiguous and open to interpretation. 
+A: True
+B: False`B
+
+True/False
+Requirements negotiation is the process of ensuring that all requirements are met without any compromise.
+A: True
+B: False`B
+
+True/False
+Requirements management involves tracking changes to requirements throughout the development process.
+A: True
+B: False`A
+
+True/False
+The goal of requirements elicitation is to document the software architecture. 
+A: True
+B: False`B
+
+True/False
+The goal of requirements engineering is to develop a software system that meets the customer's needs and expectations.
+A: True
+B: False`A

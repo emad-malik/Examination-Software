@@ -1,0 +1,6 @@
+Artificial Intelligence(CS-307);10;600
+Software Requirements Engineering(SE-301);120;6;
+Analysis of Algorithms(CS-302);60;8;
+Big Data Analytics(CS-407);60;6;
+Object Oriented Programming(CS-201);60;4;
+Artificial Intelligence(CS-307);40;7;

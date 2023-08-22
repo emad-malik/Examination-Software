@@ -1,0 +1,122 @@
+a5380ee
+Digital Image Processing
+
+MCQ
+What is the process of converting an image into a binary image called?
+A: Quantization
+B: Thresholding
+C: Filtering
+D: Compression`B
+
+MCQ
+Which of the following is not a type of noise that can affect an image?
+A: Gaussian noise
+B: Salt-and-pepper noise
+C: Poisson noise
+D: Binary noise`D
+
+MCQ
+What is the process of enhancing the contrast of an image called?
+A: Equalization
+B: Sharpening
+C: Smoothing
+D: Restoration`A
+
+MCQ
+Which of the following is a technique used to reduce the size of an image file?
+A: Interpolation
+B: Decimation
+C: Convolution
+D: Segmentation`B
+
+MCQ
+What is the process of identifying and extracting regions of interest from an image called?
+A: Segmentation
+B: Classification
+C: Compression
+D: Restoration`A
+
+MCQ
+Which of the following is not a commonly used edge detection algorithm?
+A: Sobel
+B: Laplacian
+C: Canny
+D: Median`D
+
+MCQ
+What is the process of filling in missing or corrupted parts of an image called?
+A: Interpolation
+B: Decimation
+C: Convolution
+D: Segmentation`A
+
+MCQ
+Which of the following is not a color model commonly used in Digital Image Processing?
+A: RGB
+B: HSL
+C: CMYK
+D: HSV`B
+
+MCQ
+What is the process of removing noise from an image called?
+A: Filtering
+B: Sharpening
+C: Smoothing
+D: Restoration`A
+
+MCQ
+Which of the following is a commonly used transform in Digital Image Processing?
+A: Fourier transform
+B: Logistic transform
+C: Sigmoid transform
+D: Gaussian transform`A
+
+True/False
+In digital image processing, image enhancement techniques are used to improve the visual appearance of an image.
+A: True
+B: False`A
+
+True/False
+The Fourier Transform is a spatial domain technique used to analyze the frequency content of an image.
+A: True
+B: False`B
+
+True/False
+Spatial domain techniques operate directly on the pixel values of an image.
+A: True
+B: False`A
+
+True/False
+ Image restoration techniques are used to remove noise and other distortions from an image.
+A: True
+B: False`A
+
+True/False
+Digital image processing is only used in the field of computer vision and has no applications in other areas such as medical imaging.
+A: True
+B: False`B
+
+True/False
+The Laplacian filter is commonly used for edge detection in digital image processing.
+A: True
+B: False`A
+
+True/False
+Image segmentation is the process of dividing an image into multiple disjoint regions or segments.
+A: True
+B: False`A
+
+True/False
+Morphological operations are used to process binary images and are based on set theory concepts.
+A: True
+B: False`A
+
+True/False
+Image compression techniques are used to reduce the amount of data required to represent an image.
+A: True
+B: False`A
+
+True/False
+The discrete wavelet transform can be used for image denoising and compression.
+A: True
+B: False`A

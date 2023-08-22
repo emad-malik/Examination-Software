@@ -1,0 +1,112 @@
+a5380ee
+Introduction to Computing
+
+MCQ
+Which of the following is NOT a type of computer?
+A: Supercomputer
+B: Mainframe computer
+C: Personal computer
+D: Television`D
+
+MCQ
+Which of the following is an input device?
+A: Keyboard
+B: Printer
+C: Speaker
+D: Projector`A
+
+MCQ
+Which of the following is NOT an operating system?
+A: Windows
+B: Microsoft Office
+C: Linux
+D: MacOS`B
+
+MCQ
+What is the binary equivalent of the decimal number 10?
+A: 1011
+B: 1010
+C: 1001
+D: 1100`B
+
+MCQ
+Which of the following is a programming language?
+A: Python
+B: HTML
+C: CSS
+D: SQL`A
+
+MCQ
+What is the binary equivalent of the decimal number 16?
+A: 10000
+B: 010000
+C: 001000
+D: 000100`B
+
+MCQ
+Which of the following is NOT a type of computer memory?
+A: RAM
+B: ROM
+C: HDD
+D: CPU`D
+
+MCQ
+What is the purpose of a compiler?
+A: To translate high-level programming language code to machine language code
+B: To execute machine language code
+C: To debug programming code
+D: To manage computer resources`A
+
+True/False
+The binary number system is used by electronic devices to represent and manipulate information.
+A: True
+B: False`A
+
+True/False
+The CPU (Central Processing Unit) is the main component of a computer responsible for executing instructions.
+A: True
+B: False`A
+
+True/False
+A byte is a unit of digital information that generally consists of eight bits.
+A: True
+B: False`A
+
+True/False
+The operating system (OS) is responsible for managing and coordinating activities and sharing resources of the computer system.
+A: True
+B: False`A
+
+True/False
+The keyboard and mouse are considered input devices while the monitor and printer are considered output devices.
+A: True
+B: False`A
+
+True/False
+The Internet is a global network of interconnected computers that communicate using a standardized protocol called VPN.
+A: True
+B: False`B
+
+True/False
+An algorithm is a step-by-step procedure for solving a problem or achieving a specific outcome.
+A: True
+B: False`A
+
+True/False
+RAM (Random Access Memory) is a type of computer memory that stores data temporarily and can be accessed randomly.
+A: True
+B: False`A
+
+True/False
+A compiler is a computer program that translates source code written in a high-level programming language into machine code that can be executed by a computer.
+A: True
+B: False`A
+
+True/False
+A database is a structured collection of data that is stored and organized in a way that allows for efficient retrieval and manipulation.
+A: True
+B: False`A
+
+Descriptive
+Explain the difference between a software and a program.(80 words limit).`
+In general, a program is a set of instructions or code that is executed by a computer to perform a specific task. Software, on the other hand, refers to a collection of programs, data, and other related materials that are designed to work together to perform a specific set of tasks or functions. In other words, a program is a single piece of software, while software refers to a larger set of programs and related materials.

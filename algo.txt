@@ -1,0 +1,122 @@
+a5380ee
+Analysis of Algorithm
+
+MCQ
+What is the time complexity of binary search in the worst case?
+A: O(1)
+B : O(log n)
+C: O(n)
+D: O(n^2)`B
+
+MCQ
+Which sorting algorithm has the best worst-case time complexity?
+A: QuickSort
+B: BubbleSort
+C : MergeSort
+D: InsertionSort`C
+
+MCQ
+Which data structure is used to implement priority queues?
+A: Linked List
+B: Stack
+C: Queue
+D : Binary Heap`D
+
+MCQ
+What is the time complexity of finding the maximum element in a binary heap?
+A: O(1)
+B: O(log n)
+C: O(n)
+D: O(n^2)`A
+
+MCQ
+What is the space complexity of QuickSort in the worst case?
+A: O(1)
+B: O(n)
+C : O(n^2)
+D: O(log n)`C
+
+MCQ
+Which algorithm is used for finding the shortest path in a weighted graph?
+A: Breadth-First Search (BFS)
+B: Depth-First Search (DFS)
+C : Dijkstra's Algorithm
+D: Bellman-Ford Algorithm`C
+
+MCQ
+Which algorithm is used to detect a cycle in a directed graph?
+A: Breadth-First Search (BFS)
+B: Depth-First Search (DFS)
+C: Dijkstra's Algorithm
+D: Bellman-Ford Algorithm`B
+
+MCQ
+What is the time complexity of computing the factorial of a number using recursive function?
+A: O(1)
+B: O(n)
+C: O(n^2)
+D: O(log n)`B
+
+MCQ
+Which algorithm is used for finding the minimum spanning tree of a weighted graph?
+A: Breadth-First Search (BFS)
+B: Depth-First Search (DFS)
+C: Dijkstra's Algorithm
+D: Kruskal's Algorithm`D
+
+MCQ
+Which algorithm is used for finding the longest common subsequence of two strings?
+A: Breadth-First Search (BFS)
+B: Depth-First Search (DFS)
+C: Dijkstra's Algorithm
+D: Dynamic Programming`D
+
+True/False
+An algorithm is a sequence of steps for solving a problem.
+A : True
+B: False`A
+
+True/False
+Bubble sort has a worst-case time complexity of O(n^2).
+A : True
+B: False`A
+
+True/False
+Dynamic programming is a technique used to solve problems by breaking them down into smaller subproblems.
+A : True
+B: False`A
+
+True/False
+The best-case time complexity of any algorithm is always equal to its worst-case time complexity.
+A: True
+B : False`B
+
+True/False
+Greedy algorithms always provide an optimal solution for a problem.
+A: True
+B : False`B
+
+True/False
+Binary search can only be used to search sorted arrays.
+A : True
+B: False`A
+
+True/False
+The Big-O notation is used to describe the upper bound of the time complexity of an algorithm.
+A : True
+B: False`A
+
+True/False
+The running time of an algorithm can be measured in terms of the number of basic operations performed by the algorithm.
+A : True
+B: False`A
+
+True/False
+The time complexity of a recursive algorithm is always less than or equal to the time complexity of its iterative equivalent.
+A: True
+B : False`B
+
+True/False
+The traveling salesman problem is an example of an NP-complete problem.
+A : True
+B: False`A
